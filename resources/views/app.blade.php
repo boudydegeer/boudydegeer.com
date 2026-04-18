@@ -85,6 +85,9 @@
         <x-inertia::head>
             <title>{{ config('app.name', 'Boudy de Geer') }}</title>
         </x-inertia::head>
+
+        {{-- Plausible analytics (filtered by domain — no-op on localhost) --}}
+        <script defer data-domain="boudydegeer.com" src="https://analytics.mosaiqo.com/js/script.js"></script>
     </head>
     <body class="font-sans antialiased">
         <x-inertia::app />
