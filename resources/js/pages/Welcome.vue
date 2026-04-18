@@ -120,26 +120,7 @@ const asciiArt = `   ╔══════════════════�
 </script>
 
 <template>
-    <Head title="Boudy de Geer — Senior FullStack Developer">
-        <meta
-            name="description"
-            content="Senior FullStack Developer — I bring SaaS ideas to life. Rapid SaaS &amp; MVP launch for new ventures in ~2 weeks. Laravel, Vue.js, and AI engineering."
-        />
-        <meta property="og:title" content="Boudy de Geer — Senior FullStack Developer" />
-        <meta
-            property="og:description"
-            content="Rapid SaaS &amp; MVP launch for new ventures in ~2 weeks. Laravel, Vue.js, and AI engineering."
-        />
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://boudydegeer.com" />
-        <meta property="og:image" content="https://boudydegeer.com/og-image.png" />
-        <meta property="og:image:width" content="1200" />
-        <meta property="og:image:height" content="630" />
-        <meta property="og:image:type" content="image/png" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:image" content="https://boudydegeer.com/og-image.png" />
-        <meta name="twitter:creator" content="@boudydegeer" />
-    </Head>
+    <Head title="Boudy de Geer — Senior FullStack Developer" />
 
     <div class="min-h-screen bg-background text-foreground antialiased">
         <!-- ============== TOP NAV ============== -->

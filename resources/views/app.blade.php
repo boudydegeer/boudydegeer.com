@@ -47,7 +47,35 @@
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
         <meta name="format-detection" content="telephone=no" />
         <link rel="canonical" href="{{ url()->current() }}" />
-        <meta name="description" content="Senior FullStack Developer — Laravel, Vue.js, and AI engineering. I bring SaaS ideas to life in ~2 weeks." />
+
+        <!-- Primary Meta Tags -->
+        <meta name="title" content="Boudy de Geer — Senior FullStack Developer" />
+        <meta name="description" content="Senior FullStack Developer based in Alicante, Spain. I bring SaaS ideas to life in ~2 weeks — Laravel, Vue.js, and AI engineering. CEO @ Mosaiqo." />
+        <meta name="author" content="Boudy de Geer" />
+
+        <!-- Open Graph / Facebook / LinkedIn -->
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://boudydegeer.com/" />
+        <meta property="og:site_name" content="Boudy de Geer" />
+        <meta property="og:title" content="Boudy de Geer — Senior FullStack Developer" />
+        <meta property="og:description" content="Senior FullStack Developer based in Alicante, Spain. I bring SaaS ideas to life in ~2 weeks — Laravel, Vue.js, and AI engineering. CEO @ Mosaiqo." />
+        <meta property="og:image" content="https://boudydegeer.com/og-image.png" />
+        <meta property="og:image:secure_url" content="https://boudydegeer.com/og-image.png" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta property="og:image:type" content="image/png" />
+        <meta property="og:image:alt" content="Boudy de Geer — Senior FullStack Developer" />
+        <meta property="og:locale" content="en_US" />
+
+        <!-- Twitter / X -->
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:url" content="https://boudydegeer.com/" />
+        <meta name="twitter:title" content="Boudy de Geer — Senior FullStack Developer" />
+        <meta name="twitter:description" content="Senior FullStack Developer based in Alicante, Spain. I bring SaaS ideas to life in ~2 weeks — Laravel, Vue.js, and AI engineering. CEO @ Mosaiqo." />
+        <meta name="twitter:image" content="https://boudydegeer.com/og-image.png" />
+        <meta name="twitter:image:alt" content="Boudy de Geer — Senior FullStack Developer" />
+        <meta name="twitter:creator" content="@boudydegeer" />
+        <meta name="twitter:site" content="@boudydegeer" />
 
         {{-- Fonts: JetBrains Mono (mono/sans body) + Instrument Serif (display) --}}
         <link rel="preconnect" href="https://fonts.bunny.net">
