@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" shape-rendering="crispEdges">
+  <rect width="64" height="64" fill="#0A0A0A"/>
+  <!-- Brutalist chevron '>' built from rectangles for crisp rendering at all sizes.
+       Phosphor-green on charcoal background. No radius, no shadows. -->
+  <g fill="#00FF87">
+    <!-- Upper diagonal of chevron -->
+    <rect x="18" y="16" width="8" height="8"/>
+    <rect x="24" y="22" width="8" height="8"/>
+    <rect x="30" y="28" width="8" height="8"/>
+    <!-- Lower diagonal of chevron (mirror) -->
+    <rect x="24" y="34" width="8" height="8"/>
+    <rect x="18" y="40" width="8" height="8"/>
+  </g>
+</svg>

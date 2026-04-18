@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /login
+Disallow: /register
+Disallow: /forgot-password
+Disallow: /reset-password
+Disallow: /email
+Disallow: /two-factor-challenge
+Disallow: /confirm-password
+Disallow: /dashboard
+Disallow: /settings
+Disallow: /up
+Disallow: /storage
+Allow: /
+
+Sitemap: https://boudydegeer.com/sitemap.xml
